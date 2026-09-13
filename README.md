@@ -1,8 +1,12 @@
-# 💳 CreditWise
+# 💳 Crediy
 
-CreditWise is a machine learning based loan approval prediction system.
+Crediy is a machine learning based loan approval prediction system.
 
 It predicts whether a loan application is likely to be approved based on applicant financial, employment and loan-related information.
+
+## Live Link
+
+👉 [Credify Streamlit Deployment](https://credify-ai.streamlit.app/)
 
 ## Features
 

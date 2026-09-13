@@ -9,7 +9,7 @@ import joblib
 # =========================================================
 
 st.set_page_config(
-    page_title="CreditWise",
+    page_title="Credify",
     page_icon="💳",
     layout="wide"
 )
@@ -41,7 +41,7 @@ feature_columns = bundle["feature_columns"]
 # HEADER
 # =========================================================
 
-st.title("💳 CreditWise")
+st.title("💳 Credify")
 
 st.subheader("AI-Powered Loan Approval Prediction")
 
